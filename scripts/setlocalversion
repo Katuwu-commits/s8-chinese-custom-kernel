@@ -171,4 +171,5 @@ fi
 # CONFIG_LOCALVERSION and LOCALVERSION (if set)
 res="${res}${CONFIG_LOCALVERSION}${LOCALVERSION}"
 
+
 echo "$res"
